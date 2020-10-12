@@ -1,7 +1,10 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
-
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Git
+- name: Linux
+- name: MongoDB
+- name: Node.js
+- name: Apache Spark
+- name: LaTeX 
+- name: Android Studio
+- name: Selenium
+- name: Solr
+- name: Microsoft Office

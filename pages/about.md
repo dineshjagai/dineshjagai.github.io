@@ -8,7 +8,13 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Hi I’m Dinesh :wave:, a senior in Computer Science submatriculating in robotics at Upenn. I will graduate in May 2021 and I’m looking for a full-time software engineer position.
+
+
+I’m experienced in Java, Python, Javascript, C/C++. I have a good understanding in data structure & algorithm, as well as experience in web development (Javascript, HTML/CSS, React.js, Node.js), Mobile App Development(Kotin), C++ & Java OO design, and system programming (concurrency, synchronization, TCP socket).
+
+I am deeply interested in creating efficient, reliable, and useful systems in software engineering and robotics. 
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
