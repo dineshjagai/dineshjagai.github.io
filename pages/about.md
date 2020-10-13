@@ -18,7 +18,8 @@ I am deeply interested in creating efficient, reliable, and useful systems in so
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Frameworks And Tools" source=site.data.other-skills %}
+{% include about/skills.html title="Libraries" source=site.data.libraries%}
 </div>
 
 <div class="row">

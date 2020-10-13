@@ -1,0 +1,9 @@
+- name: Scikit-Learn
+- name: TensorFlow
+- name: Pandas
+- name: NLTK
+- name: NumPyk
+- name: PyTorch
+- name: Matplotlib
+- name: BeautifulSoup
+- name: Keras
