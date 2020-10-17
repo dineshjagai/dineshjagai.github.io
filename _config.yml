@@ -65,7 +65,7 @@ disqus: https-dineshjagai-github-io                          # Your website Shor
 analytics:
   enabled: true                                        # Set true to enable analytics
   google:
-    tracking_id: your-google-tracking-id
+    tracking_id: UA-180751544-1
 
 
 ### Defaults for collections ###
